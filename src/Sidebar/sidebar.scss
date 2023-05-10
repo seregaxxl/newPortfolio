@@ -22,12 +22,14 @@
     }
     &__icons {
         transform: rotate(90deg);
+        // width: 20px;
+        // height: 20px;
         &:hover {
             svg .github_icon {
                 fill: orange;
             }
-            svg .instagram_icon {
-                fill: purple;
+            svg .linked_icon {
+                fill: blue;
             }
             svg .facebook_icon {
                 fill: blue;
